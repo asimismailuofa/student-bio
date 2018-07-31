@@ -1,0 +1,55 @@
+body
+{
+
+    background-color: lightgrey;
+
+}
+
+.student-bio 
+{
+
+    background-color: rgb(26, 29, 26);
+    padding: 10px;
+    text-align: center;
+    color: aliceblue;
+    border: 1px solid gray;
+    width: 1100px;
+    margin-left: 175px;
+    
+}
+img
+{
+    width: 200px;
+    margin-left:  225px;
+    float: left;
+    margin-right: 20px;
+}
+
+.asim-ismail 
+{
+
+margin-left:225px; 
+
+}
+
+.pic
+{
+
+float: left;
+
+}
+
+.contact-info 
+{
+
+float: right;
+margin-right: 325px;
+}
+
+p 
+{
+
+width: 800px;
+padding-right: 20px;
+
+}
